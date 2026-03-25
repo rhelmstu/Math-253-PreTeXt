@@ -1,0 +1,71 @@
+INFO    : Now preparing local server to preview your project directory `C:\Users\rhelmstu\Documents\Math 253 PreTeXt`.
+INFO    :   (Reminder: use `pretext deploy` to deploy your built project to a public
+INFO    :   GitHub Pages site that can be shared with readers who cannot access your
+INFO    :   personal computer.)
+INFO    : 
+INFO    : starting server ...
+INFO    : setting up PreTeXt web server ...
+INFO    : Added pretext web server entry c51236d495 15580 8128 localhost
+
+INFO    : Server will soon be available at http://localhost:8128
+INFO    : Opening browser for target `print` at http://localhost:8128/output/print
+WARNING : Port 8128 could not be used.
+WARNING : Trying port 8129 instead.
+
+INFO    : Added pretext web server entry c51236d495 15580 8129 localhost
+
+INFO    : Server will soon be available at http://localhost:8129
+INFO    : Opening browser for target `print` at http://localhost:8129/output/print
+WARNING : Port 8129 could not be used.
+WARNING : Trying port 8130 instead.
+
+INFO    : Added pretext web server entry c51236d495 15580 8130 localhost
+
+INFO    : Server will soon be available at http://localhost:8130
+INFO    : Opening browser for target `print` at http://localhost:8130/output/print
+WARNING : Port 8130 could not be used.
+WARNING : Trying port 8131 instead.
+
+INFO    : Added pretext web server entry c51236d495 15580 8131 localhost
+
+INFO    : Server will soon be available at http://localhost:8131
+INFO    : Opening browser for target `print` at http://localhost:8131/output/print
+WARNING : Port 8131 could not be used.
+WARNING : Trying port 8132 instead.
+
+INFO    : Added pretext web server entry c51236d495 15580 8132 localhost
+
+INFO    : Server will soon be available at http://localhost:8132
+INFO    : Opening browser for target `print` at http://localhost:8132/output/print
+WARNING : Port 8132 could not be used.
+WARNING : Trying port 8133 instead.
+
+INFO    : Added pretext web server entry c51236d495 15580 8133 localhost
+
+INFO    : Server will soon be available at http://localhost:8133
+INFO    : Opening browser for target `print` at http://localhost:8133/output/print
+WARNING : Port 8133 could not be used.
+WARNING : Trying port 8134 instead.
+
+INFO    : Added pretext web server entry c51236d495 15580 8134 localhost
+
+INFO    : Server will soon be available at http://localhost:8134
+INFO    : Opening browser for target `print` at http://localhost:8134/output/print
+WARNING : Port 8134 could not be used.
+WARNING : Trying port 8135 instead.
+
+INFO    : Added pretext web server entry c51236d495 15580 8135 localhost
+
+INFO    : Server will soon be available at http://localhost:8135
+INFO    : Opening browser for target `print` at http://localhost:8135/output/print
+WARNING : Port 8135 could not be used.
+WARNING : Trying port 8136 instead.
+
+INFO    : Added pretext web server entry c51236d495 15580 8136 localhost
+
+INFO    : Server will soon be available at http://localhost:8136
+INFO    : Opening browser for target `print` at http://localhost:8136/output/print
+WARNING : Port 8136 could not be used.
+WARNING : Trying port 8137 instead.
+
+INFO    : There are 10 or more servers on file. Cleaning up ...

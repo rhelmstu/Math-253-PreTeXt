@@ -1,0 +1,29 @@
+INFO    : Building target print
+INFO    : XSL conversion of C:\Users\rhelmstu\Documents\Math 253 PreTeXt\source\main.ptx by C:\Users\rhelmstu\.ptx\2.37.1\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\rhelmstu\.ptx\2.37.1\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : Generating any needed assets.
+INFO    : Finished generating assets.
+
+INFO    : Preparing to build into C:\Users\rhelmstu\Documents\Math 253 PreTeXt\output\print.
+INFO    : discovering source file's directory name: C:\Users\rhelmstu\Documents\Math 253 PreTeXt\source
+INFO    : verifying and expanding input directory: C:\Users\rhelmstu\Documents\Math 253 PreTeXt\source\../generated-assets
+INFO    : input directory expanded to absolute path: C:\Users\rhelmstu\Documents\Math 253 PreTeXt\generated-assets
+INFO    : verifying and expanding input directory: C:\Users\rhelmstu\Documents\Math 253 PreTeXt\source\../assets
+INFO    : input directory expanded to absolute path: C:\Users\rhelmstu\Documents\Math 253 PreTeXt\assets
+INFO    : XSL conversion of C:\Users\rhelmstu\Documents\Math 253 PreTeXt\source\main.ptx by C:\Users\rhelmstu\.ptx\2.37.1\core\xsl\utilities\report-publisher-variables.xsl
+INFO    : successful application of C:\Users\rhelmstu\.ptx\2.37.1\core\xsl\utilities\report-publisher-variables.xsl
+INFO    : converting C:\Users\rhelmstu\Documents\Math 253 PreTeXt\source\main.ptx to LaTeX as C:\Users\rhelmstu\AppData\Local\Temp\ptx-is7rinkj\main.tex
+INFO    : XSL conversion of C:\Users\rhelmstu\Documents\Math 253 PreTeXt\source\main.ptx by C:\Users\rhelmstu\.ptx\2.37.1\core\xsl\pretext-latex.xsl
+INFO    : messages from the log for XSL processing:
+INFO    : * PTX:INFO:   checking all deprecated elements.
+INFO    : successful application of C:\Users\rhelmstu\.ptx\2.37.1\core\xsl\pretext-latex.xsl
+INFO    : Removing temporary directory C:\Users\rhelmstu\AppData\Local\Temp\ptx-is7rinkj
+INFO    : Removing temporary directory C:\Users\rhelmstu\AppData\Local\Temp\ptx-ffnesa2r
+INFO    : Removing temporary directory C:\Users\rhelmstu\AppData\Local\Temp\ptx-5oqeufl4
+INFO    : 
+Finished build for target print. The output is in C:\Users\rhelmstu\Documents\Math 253 PreTeXt\output\print.
+
+INFO    : 
+Success!  Built requested target(s) without errors.
+
+INFO    : 
