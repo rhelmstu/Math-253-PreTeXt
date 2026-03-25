@@ -19,16 +19,16 @@
   <!-- macros for defining latex math shortcuts. It is good practice -->
   <!-- to define these semantically, so that the macro relates to what-->
   <!-- it defines. -->
-  <!-- <macros> 
-    \newcommand{\N}{\mathbb N} 
-    \newcommand{\Z}{\mathbb Z} 
+  <macros> 
+    \newcommand{\bbN}{\mathbb{N}} 
+    \newcommand{\bbZ}{\mathbb{Z}} 
     \newcommand{\ephi}{\varphi}
     \newcommand{\is}{\equiv}
     \newcommand{\exskip}{\vspace{1.5in}}
     \newcommand{\ab}{AB}
     \newcommand{\bc}{BC}
     \newcommand{\ac}{AC}  
-  </macros> -->
+  </macros> 
 
   <!-- If you put any latex-image elements you can include preambles -->
   <!-- for those in the next element. -->

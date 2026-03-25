@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.1",
   "title": "Section Title",
-  "body": " Section Title  Text of section.  "
+  "body": " Section Title  Text of section.   "
 }
 ]
 
