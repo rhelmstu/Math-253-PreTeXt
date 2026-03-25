@@ -1,0 +1,36 @@
+INFO    : Since no target was supplied, we will use "web".
+
+INFO    : Building target web
+INFO    : XSL conversion of C:\Users\rhelmstu\Documents\Math 253 PreTeXt\source\main.ptx by C:\Users\rhelmstu\.ptx\2.37.1\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\rhelmstu\.ptx\2.37.1\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : PreTeXt source passed schema validation.
+INFO    : Generating any needed assets.
+INFO    : Finished generating assets.
+
+INFO    : Preparing to build into C:\Users\rhelmstu\Documents\Math 253 PreTeXt\output\web.
+INFO    : discovering source file's directory name: C:\Users\rhelmstu\Documents\Math 253 PreTeXt\source
+INFO    : verifying and expanding input directory: C:\Users\rhelmstu\Documents\Math 253 PreTeXt\source\../generated-assets
+INFO    : input directory expanded to absolute path: C:\Users\rhelmstu\Documents\Math 253 PreTeXt\generated-assets
+INFO    : verifying and expanding input directory: C:\Users\rhelmstu\Documents\Math 253 PreTeXt\source\../assets
+INFO    : input directory expanded to absolute path: C:\Users\rhelmstu\Documents\Math 253 PreTeXt\assets
+INFO    : XSL conversion of C:\Users\rhelmstu\Documents\Math 253 PreTeXt\source\main.ptx by C:\Users\rhelmstu\.ptx\2.37.1\core\xsl\utilities\report-publisher-variables.xsl
+INFO    : successful application of C:\Users\rhelmstu\.ptx\2.37.1\core\xsl\utilities\report-publisher-variables.xsl
+INFO    : Downloading rs services file from https://runestone.academy/cdn/runestone/latest/webpack_static_imports.xml.
+INFO    : Runestone Services via online CDN query: version 7.11.19
+INFO    : Downloading Runestone Services, version 7.11.19
+INFO    : Extracting Runestone Services from archive file
+INFO    : Building custom css theme: theme-default-modern
+INFO    : converting C:\Users\rhelmstu\Documents\Math 253 PreTeXt\source\main.ptx to HTML in C:\Users\rhelmstu\AppData\Local\Temp\ptx-wzt7llwp
+INFO    : XSL conversion of C:\Users\rhelmstu\Documents\Math 253 PreTeXt\source\main.ptx by C:\Users\rhelmstu\.ptx\2.37.1\core\xsl\pretext-html.xsl
+INFO    : messages from the log for XSL processing:
+INFO    : * PTX:INFO:   checking all deprecated elements.
+INFO    : successful application of C:\Users\rhelmstu\.ptx\2.37.1\core\xsl\pretext-html.xsl
+INFO    : Removing temporary directory C:\Users\rhelmstu\AppData\Local\Temp\ptx-wzt7llwp
+INFO    : Removing temporary directory C:\Users\rhelmstu\AppData\Local\Temp\ptx-20mpaygy
+INFO    : 
+Finished build for target web. Run `pretext view web` to see the results.
+
+INFO    : 
+Success!  Built requested target(s) without errors.
+
+INFO    : 

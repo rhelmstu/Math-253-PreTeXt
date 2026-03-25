@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<chapter xml:id="intro_chapter" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>What Is Cryptography?</title>
+<chapter xml:id="affine_chapter" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Affine Encryption</title>
 
   <introduction>
     <p> Text before the first section. </p>
   </introduction>
 
   <!-- include sections -->
-  <xi:include href="sec-gen_setting.ptx" />
+  <xi:include href="sec-section-name.ptx" />
 
 </chapter>
