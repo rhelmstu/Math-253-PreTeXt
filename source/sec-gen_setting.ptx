@@ -11,7 +11,7 @@ channel</em>, meaning that Alice and Bob must assume that anything sent over thi
 Eve---a notorious eavesdropper---is listening to all of their communications.
 </p>
       
-<image source="images/ABEnew">
+<image source="/images/ABEnew.png" width="60%">
   <shortdescription>Eve listening to Alice and Bob</shortdescription>
 </image>
 
