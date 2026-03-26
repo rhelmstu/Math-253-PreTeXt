@@ -15,10 +15,11 @@
       <today />
     </date>
 
+   <!-- 
     <website>
       <url href="https://pretextbook.org">My Website</url>
     </website>
-
+    -->
     <copyright>
       <year>2026</year>
       <holder>Randall D. Helmstutler</holder>

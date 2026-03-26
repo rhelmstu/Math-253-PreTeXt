@@ -12,11 +12,11 @@
     <xi:include href="./frontmatter.ptx" />
 
     <!-- Include chapters -->
-    <xi:include href="./intro_chapter.ptx" />
+    <xi:include href="./chap_intro.ptx" />
 
-    <!--<xi:include href="./congruences_chapter.ptx" />
+    <xi:include href="./chap_cong.ptx" />
 
-    <xi:include href="./affine_chapter.ptx" />
+    <!-- <xi:include href="./affine_chapter.ptx" />
 
     <xi:include href="./attacks_chapter.ptx" />
 
